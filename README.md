@@ -19,7 +19,7 @@ You can check if they're installed by running `docker --version`, `git --version
 
 To unleash the power of **TheMighty**, follow these steps:
 
-1. Download the script (or clone it from the repository).
+1. Download the script (or clone it from the repository). `https://github.com/M1cr0wave/TheMighty.git`.
 2. Give it execute permissions using the command `chmod +x TheMighty.sh`.
 3. Run the script using `./TheMighty.sh`.
 
